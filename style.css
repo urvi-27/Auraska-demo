@@ -425,7 +425,7 @@ body {
     border: 1px solid brown;
     border-radius: 10px 10px 10px 10px;
     margin-bottom: 3rem;
-    padding: 3rem 5rem 2rem 5rem;
+    padding: 3rem 1rem 2rem 1rem;
     text-align: center;
 }
 
@@ -1332,23 +1332,24 @@ body {
     .footer-block__social-media {
         padding-top: 1rem;
     }
+
     .contact-block__info__form--name input {
-        height:50px;
+        height: 50px;
         width: 100%;
     }
-    
+
     .contact-block__info__form--email input {
-        height:50px;
+        height: 50px;
         width: 100%;
     }
-    
+
     .contact-block__info__form--subject input {
-        height:50px;
+        height: 50px;
         width: 100%;
     }
-    
+
     .contact-block__info__form--message input {
-        height:100px;
+        height: 100px;
         width: 100%;
     }
 }
@@ -1382,7 +1383,7 @@ body {
         align-items: center;
         justify-content: center;
     }
-    
+
     .third-block__description--text {
         width: 70%;
     }
@@ -1414,6 +1415,10 @@ body {
     .indstries-block__cards__content {
         display: flex;
         justify-content: space-around;
+    }
+
+    .industries-block__cards__financial {
+        padding: 3rem 5rem 2rem 5rem;
     }
 
     .indstries-block__cards__content--financial-sector p {
@@ -1583,8 +1588,8 @@ body {
     }
 
     .contact-block__info__form--name input {
-       width: 30rem;
-       height: 50px;
+        width: 30rem;
+        height: 50px;
     }
 
     .contact-block__info__form--email input {
@@ -1629,8 +1634,8 @@ body {
     }
 
     .contact-block__info__form--name input {
-      width: 50rem;
-      height: 50px;
+        width: 50rem;
+        height: 50px;
     }
 
     .contact-block__info__form--email input {
