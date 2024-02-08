@@ -234,6 +234,10 @@ body {
     border-radius: 10px;
 }
 
+.service-block__card1__description {
+    flex-grow: 1;
+}
+
 .service-block__card1__description--width {
     margin-left: 4rem;
     margin-right: 4rem;
@@ -276,6 +280,10 @@ body {
     border-radius: 10px;
 }
 
+.service-block__card2__description {
+    flex-grow: 1;
+}
+
 .service-block__card2__description--width {
     margin-left: 4rem;
     margin-right: 4rem;
@@ -316,6 +324,10 @@ body {
     margin-bottom: 2rem;
     border: 2px solid brown;
     border-radius: 10px;
+}
+
+.service-block__card3__description {
+    flex-grow: 1;
 }
 
 .service-block__card3__description--width {
